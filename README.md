@@ -8,15 +8,18 @@ JavaScript
 
 ## Screen shots:
 
-Level 1 guess:
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1") Level 1 guessing problem
+
 
 ![ScreenShot](https://github.com/tasnim007/Guess-IT-Game---JavaScript/blob/master/images/guess_1.PNG)
 
-When you are successful
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1") When you are successful
+
 
 ![ScreenShot](https://github.com/tasnim007/Guess-IT-Game---JavaScript/blob/master/images/guess_2.PNG)
 
 
-When your answer is wrong
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1") When your answer is wrong
+
 
 ![ScreenShot](https://github.com/tasnim007/Guess-IT-Game---JavaScript/blob/master/images/guess_3.PNG)
